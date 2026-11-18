@@ -1,5 +1,9 @@
 # FoldLab — Protein Homology Modelling
 
+> **🌐 Live website: [Open FoldLab](https://preethikasri86-sudo.github.io/protein-homology-modelling-/)**
+
+[![Visit Website](https://img.shields.io/badge/Visit-Live%20Website-2ea44f?style=for-the-badge)](https://preethikasri86-sudo.github.io/protein-homology-modelling-/)
+
 A responsive educational website introducing protein homology (comparative) modelling.
 
 ## Website sections
